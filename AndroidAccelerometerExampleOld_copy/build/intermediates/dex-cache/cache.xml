@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tianhan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/tianhan/Documents/ColumbiaU/Spring15/Mobile Sensing/AndroidAccelerometerExampleOld_copy/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-c779589a7d37891593e2ab8f85d4032d9e7ec6dc.jar" />
+    </item>
+
+</items>

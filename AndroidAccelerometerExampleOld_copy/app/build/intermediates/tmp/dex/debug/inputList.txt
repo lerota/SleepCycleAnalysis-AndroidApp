@@ -1,0 +1,2 @@
+/Users/tianhan/Documents/ColumbiaU/Spring15/Mobile Sensing/AndroidAccelerometerExampleOld_copy/app/build/intermediates/classes/debug
+/Users/tianhan/Documents/ColumbiaU/Spring15/Mobile Sensing/AndroidAccelerometerExampleOld_copy/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-c779589a7d37891593e2ab8f85d4032d9e7ec6dc.jar

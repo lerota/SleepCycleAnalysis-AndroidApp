@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/tianhan/Documents/ColumbiaU/Spring15/Mobile%20Sensing/AndroidAccelerometerExampleOld_copy/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">AndroidAccelerometerExample</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
